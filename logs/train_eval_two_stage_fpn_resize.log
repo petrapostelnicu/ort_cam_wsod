@@ -1,0 +1,607 @@
+Running on Tesla V100S-PCIE-32GB
+Epoch 1/20 - Training - Loss: 0.6793768510400536
+Epoch 1/20 - Validation - Loss: 0.6552251591568902
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 2/20 - Training - Loss: 0.6006833360014684
+Epoch 2/20 - Validation - Loss: 0.5769156756855193
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 3/20 - Training - Loss: 0.5437744466432062
+Epoch 3/20 - Validation - Loss: 0.5472802108242398
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 4/20 - Training - Loss: 0.5188625855037415
+Epoch 4/20 - Validation - Loss: 0.5308687381801152
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 5/20 - Training - Loss: 0.5071079996358826
+Epoch 5/20 - Validation - Loss: 0.5322324978926826
+Epoch 6/20 - Training - Loss: 0.4963891457513984
+Epoch 6/20 - Validation - Loss: 0.5304223185493833
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 7/20 - Training - Loss: 0.4840192878507523
+Epoch 7/20 - Validation - Loss: 0.5390914006838723
+Epoch 8/20 - Training - Loss: 0.4678998025527513
+Epoch 8/20 - Validation - Loss: 0.5486735266352457
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 9/20 - Training - Loss: 0.4716659473233014
+Epoch 9/20 - Validation - Loss: 0.5305175043287731
+Epoch 10/20 - Training - Loss: 0.46495160692004095
+Epoch 10/20 - Validation - Loss: 0.5305929295127354
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 11/20 - Training - Loss: 0.4759103990052326
+Epoch 11/20 - Validation - Loss: 0.5263846497687082
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 12/20 - Training - Loss: 0.4726773079529227
+Epoch 12/20 - Validation - Loss: 0.5276259122386812
+Epoch 13/20 - Training - Loss: 0.47037340522524845
+Epoch 13/20 - Validation - Loss: 0.52773921995882
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 14/20 - Training - Loss: 0.47314355020741544
+Epoch 14/20 - Validation - Loss: 0.5265319184178398
+Epoch 15/20 - Training - Loss: 0.4734168179125425
+Epoch 15/20 - Validation - Loss: 0.5259843146990216
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 16/20 - Training - Loss: 0.4724873411227982
+Epoch 16/20 - Validation - Loss: 0.526123185006399
+Epoch 17/20 - Training - Loss: 0.47279825040781165
+Epoch 17/20 - Validation - Loss: 0.5266148958887372
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 18/20 - Training - Loss: 0.47290791131823184
+Epoch 18/20 - Validation - Loss: 0.5255148089121259
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Epoch 19/20 - Training - Loss: 0.47341998966329124
+Epoch 19/20 - Validation - Loss: 0.5256539682547251
+Epoch 20/20 - Training - Loss: 0.47287318300440967
+Epoch 20/20 - Validation - Loss: 0.5249600954472072
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Training completed in 5176.20s
+Losses saved to logs/train_faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.csv
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Epoch 1/20 - Training - Loss: 0.5600566656228556
+Epoch 1/20 - Validation - Loss: 0.5057667460706499
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 2/20 - Training - Loss: 0.4648711259859017
+Epoch 2/20 - Validation - Loss: 0.42486231596696944
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 3/20 - Training - Loss: 0.4162096629342235
+Epoch 3/20 - Validation - Loss: 0.41229932838016087
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 4/20 - Training - Loss: 0.3955340106411284
+Epoch 4/20 - Validation - Loss: 0.3947822321501989
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 5/20 - Training - Loss: 0.38139162126527837
+Epoch 5/20 - Validation - Loss: 0.3910301803123383
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 6/20 - Training - Loss: 0.37216357204068706
+Epoch 6/20 - Validation - Loss: 0.38929241209749194
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 7/20 - Training - Loss: 0.359397727773484
+Epoch 7/20 - Validation - Loss: 0.39463018046485054
+Epoch 8/20 - Training - Loss: 0.3429651073369372
+Epoch 8/20 - Validation - Loss: 0.40511205863384975
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 9/20 - Training - Loss: 0.3452315680178038
+Epoch 9/20 - Validation - Loss: 0.39055812382508837
+Epoch 10/20 - Training - Loss: 0.34015877253980753
+Epoch 10/20 - Validation - Loss: 0.39292748367029523
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 11/20 - Training - Loss: 0.35117758685849104
+Epoch 11/20 - Validation - Loss: 0.3825725598467721
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 12/20 - Training - Loss: 0.34644042222623334
+Epoch 12/20 - Validation - Loss: 0.383945927260414
+Epoch 13/20 - Training - Loss: 0.3442870065629245
+Epoch 13/20 - Validation - Loss: 0.3858034511407216
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 14/20 - Training - Loss: 0.347160703929297
+Epoch 14/20 - Validation - Loss: 0.38341451944812893
+Epoch 15/20 - Training - Loss: 0.3472580064934088
+Epoch 15/20 - Validation - Loss: 0.38353541682636927
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 16/20 - Training - Loss: 0.34744292076127936
+Epoch 16/20 - Validation - Loss: 0.3840620858328683
+Epoch 17/20 - Training - Loss: 0.34758783075439026
+Epoch 17/20 - Validation - Loss: 0.3841055877624996
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 18/20 - Training - Loss: 0.34774408688345754
+Epoch 18/20 - Validation - Loss: 0.3828318826262913
+Epoch 19/20 - Training - Loss: 0.34806189504990065
+Epoch 19/20 - Validation - Loss: 0.3830067411301628
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Epoch 20/20 - Training - Loss: 0.3475757931689342
+Epoch 20/20 - Validation - Loss: 0.38351661227052175
+Training completed in 7888.19s
+Losses saved to logs/train_faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.csv
+Running on Tesla V100S-PCIE-32GB
+Epoch 1/20 - Training - Loss: 0.6203855467270095
+Epoch 1/20 - Validation - Loss: 0.5555079480012258
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 2/20 - Training - Loss: 0.5118581059563208
+Epoch 2/20 - Validation - Loss: 0.47448384383368114
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 3/20 - Training - Loss: 0.4605648899339585
+Epoch 3/20 - Validation - Loss: 0.4628439737217767
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 4/20 - Training - Loss: 0.4395914727829367
+Epoch 4/20 - Validation - Loss: 0.4603531251824091
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 5/20 - Training - Loss: 0.41592188511949135
+Epoch 5/20 - Validation - Loss: 0.45198956936124773
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 6/20 - Training - Loss: 0.4006141181367327
+Epoch 6/20 - Validation - Loss: 0.45517158319079687
+Epoch 7/20 - Training - Loss: 0.3788055680187575
+Epoch 7/20 - Validation - Loss: 0.4516695501312377
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 8/20 - Training - Loss: 0.3591899700255033
+Epoch 8/20 - Validation - Loss: 0.4579002076671237
+Epoch 9/20 - Training - Loss: 0.3315090871308429
+Epoch 9/20 - Validation - Loss: 0.463870259740996
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 10/20 - Training - Loss: 0.3355177966840714
+Epoch 10/20 - Validation - Loss: 0.4542781772121551
+Epoch 11/20 - Training - Loss: 0.3252492527147213
+Epoch 11/20 - Validation - Loss: 0.46060963566341095
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 12/20 - Training - Loss: 0.34213901159772836
+Epoch 12/20 - Validation - Loss: 0.44618940944709473
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 13/20 - Training - Loss: 0.3355460256575588
+Epoch 13/20 - Validation - Loss: 0.44669755465454525
+Epoch 14/20 - Training - Loss: 0.3335205622878208
+Epoch 14/20 - Validation - Loss: 0.4495728673442962
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 15/20 - Training - Loss: 0.3373526667218759
+Epoch 15/20 - Validation - Loss: 0.4459509097394489
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 16/20 - Training - Loss: 0.33639179413537107
+Epoch 16/20 - Validation - Loss: 0.44661499961974127
+Epoch 17/20 - Training - Loss: 0.3363152707952902
+Epoch 17/20 - Validation - Loss: 0.4475872317949931
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 18/20 - Training - Loss: 0.33754460228629324
+Epoch 18/20 - Validation - Loss: 0.4461921564643345
+Epoch 19/20 - Training - Loss: 0.33788423406412876
+Epoch 19/20 - Validation - Loss: 0.44624621598493486
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Epoch 20/20 - Training - Loss: 0.33673977875614547
+Epoch 20/20 - Validation - Loss: 0.445476367596596
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Training completed in 7240.42s
+Losses saved to logs/train_faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.csv
+Running on Tesla V100S-PCIE-32GB
+Epoch 1/20 - Training - Loss: 0.5261599113979187
+Epoch 1/20 - Validation - Loss: 0.5053901577752734
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 2/20 - Training - Loss: 0.45337749014337697
+Epoch 2/20 - Validation - Loss: 0.4293293073063805
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 3/20 - Training - Loss: 0.40251960222464633
+Epoch 3/20 - Validation - Loss: 0.4162469291024738
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 4/20 - Training - Loss: 0.3726426941227628
+Epoch 4/20 - Validation - Loss: 0.39468561160185983
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 5/20 - Training - Loss: 0.35087660287480904
+Epoch 5/20 - Validation - Loss: 0.3865608927749452
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 6/20 - Training - Loss: 0.33979736191343024
+Epoch 6/20 - Validation - Loss: 0.3838909552210853
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 7/20 - Training - Loss: 0.32189695157140374
+Epoch 7/20 - Validation - Loss: 0.38007491708747926
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 8/20 - Training - Loss: 0.31049877684192356
+Epoch 8/20 - Validation - Loss: 0.3955069576937055
+Epoch 9/20 - Training - Loss: 0.2916961865299251
+Epoch 9/20 - Validation - Loss: 0.38820171710990725
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 10/20 - Training - Loss: 0.2964548780267457
+Epoch 10/20 - Validation - Loss: 0.3780495181443199
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 11/20 - Training - Loss: 0.2897339327876786
+Epoch 11/20 - Validation - Loss: 0.37951646910773384
+Epoch 12/20 - Training - Loss: 0.2859951702365837
+Epoch 12/20 - Validation - Loss: 0.3846363652320135
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 13/20 - Training - Loss: 0.2878446540093992
+Epoch 13/20 - Validation - Loss: 0.3787066617182323
+Epoch 14/20 - Training - Loss: 0.2874286418476428
+Epoch 14/20 - Validation - Loss: 0.3789662458593883
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 15/20 - Training - Loss: 0.2884977911691742
+Epoch 15/20 - Validation - Loss: 0.37720395695595516
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 16/20 - Training - Loss: 0.28827666589225903
+Epoch 16/20 - Validation - Loss: 0.37777490771952127
+Epoch 17/20 - Training - Loss: 0.28820626381265213
+Epoch 17/20 - Validation - Loss: 0.3795487443133006
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 18/20 - Training - Loss: 0.2884299993752483
+Epoch 18/20 - Validation - Loss: 0.37747524820622946
+Epoch 19/20 - Training - Loss: 0.2889085105690823
+Epoch 19/20 - Validation - Loss: 0.3772273522520822
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Epoch 20/20 - Training - Loss: 0.2883715685976454
+Epoch 20/20 - Validation - Loss: 0.37644717570335146
+Model saved to pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Training completed in 7434.25s
+Losses saved to logs/train_faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.csv
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer0_final_resize.pth
+Evaluation time saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.6831683168316832, 2: 0.7623762376237624, 3: 0.6724711405663921, 4: 0.5898479105522083, 5: 0.5246950782034725, 6: 0.7821287128712872, 7: 0.6531794729082114, 8: 0.918342297753748, 9: 0.6237623762376238, 10: 0.46534653465346537, 11: 0.4158415841584158, 12: 0.9194073384791036, 13: 0.6237623762376238, 14: 0.6237623762376238, 15: 0.7524752475247525, 16: 0.594059405940594, 17: 0.297029702970297, 18: 0.9845491204852146, 19: 0.9163694676235399, 20: 0.8753406735545725}
+Pin Pointing mAP: 0.6838957685706795
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.1940), 'map_50': tensor(0.1940), 'map_75': tensor(-1.), 'map_small': tensor(0.0066), 'map_medium': tensor(0.0369), 'map_large': tensor(0.3872), 'mar_1': tensor(0.2518), 'mar_10': tensor(0.2790), 'mar_100': tensor(0.2790), 'mar_small': tensor(0.0050), 'mar_medium': tensor(0.0700), 'mar_large': tensor(0.6161), 'map_per_class': tensor([0.3143, 0.2021, 0.1281, 0.0124, 0.0169, 0.2695, 0.2026, 0.4819, 0.0115,
+        0.0997, 0.3209, 0.3575, 0.3203, 0.3081, 0.0987, 0.0409, 0.0279, 0.3014,
+        0.3466, 0.0184]), 'mar_100_per_class': tensor([0.3730, 0.3059, 0.2309, 0.0891, 0.0381, 0.3937, 0.2615, 0.5703, 0.0691,
+        0.1520, 0.3378, 0.4906, 0.4051, 0.3659, 0.2080, 0.1334, 0.0611, 0.4899,
+        0.4768, 0.1274]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.9205452248815409, 2: 0.9973157173506619, 3: 0.9857813610008017, 4: 0.8728395690418337, 5: 0.8412549130370912, 6: 0.9543259563272203, 7: 0.9770790303907395, 8: 0.9874747457570214, 9: 0.9514532098371127, 10: 0.9282728272827283, 11: 0.693069306930693, 12: 0.9796850209936329, 13: 0.7821782178217822, 14: 0.7425742574257426, 15: 0.9884863827534166, 16: 0.974366125948085, 17: 0.7623762376237624, 18: 0.9575054978025275, 19: 0.9577131863373356, 20: 0.9396752561558624}
+Pin Pointing mAP: 0.9096986022349798
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.4495), 'map_50': tensor(0.4495), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0858), 'map_large': tensor(0.5540), 'mar_1': tensor(0.5438), 'mar_10': tensor(0.5631), 'mar_100': tensor(0.5631), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1274), 'mar_large': tensor(0.7086), 'map_per_class': tensor([0.4609, 0.8491, 0.3539, 0.0510, 0.1055, 0.5059, 0.6047, 0.6752, 0.0517,
+        0.4500, 0.5941, 0.5058, 0.6310, 0.6613, 0.7207, 0.3825, 0.1350, 0.7486,
+        0.4525, 0.0508]), 'mar_100_per_class': tensor([0.5349, 0.8889, 0.5372, 0.2414, 0.3043, 0.6154, 0.6978, 0.7415, 0.2500,
+        0.5208, 0.6000, 0.6698, 0.6579, 0.6667, 0.8073, 0.5588, 0.2800, 0.8333,
+        0.5789, 0.2769]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.8369554755164151, 2: 0.6887788778877887, 3: 0.938200353226146, 4: 0.6759978489450289, 5: 0.5898161244695898, 6: 0.8910891089108911, 7: 0.8767939353265997, 8: 0.7092709270927091, 9: 0.606029449098756, 10: 0.6782178217821783, 12: 0.7722772277227723, 13: 0.2079207920792079, 14: 0.0, 15: 0.9273927392739273, 16: 0.8494277999228494, 17: 0.7940594059405941, 18: 0.8264969354078265, 19: 0.7818915217568941, 20: 0.8279323809699679}
+Pin Pointing mAP: 0.7093973013331653
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.0561), 'map_50': tensor(0.0561), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0989), 'map_large': tensor(0.0385), 'mar_1': tensor(0.1102), 'mar_10': tensor(0.1224), 'mar_100': tensor(0.1224), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1274), 'mar_large': tensor(0.3156), 'map_per_class': tensor([0.0024, 0.2211, 0.0072, 0.0007, 0.0000, 0.0378, 0.0020, 0.0099, 0.0983,
+        0.0000, 0.2605, 0.0000, 0.0000, 0.0481, 0.1436, 0.0000, 0.2327, 0.0000,
+        0.0013]), 'mar_100_per_class': tensor([0.0385, 0.3333, 0.0725, 0.0333, 0.0000, 0.2000, 0.0423, 0.0714, 0.2857,
+        0.0000, 0.3500, 0.0000, 0.0000, 0.1935, 0.2727, 0.0000, 0.3750, 0.0000,
+        0.0571]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 12, 13, 14, 15, 16, 17, 18, 19,
+        20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.9801980198019802, 2: 1.0, 3: 0.9995116133872047, 4: 0.9422494630415422, 5: 0.9722772277227726, 6: 0.9656717320083658, 7: 0.9996602601436615, 8: 0.99793529622129, 9: 0.9900990099009901, 10: 1.0, 11: 0.693069306930693, 12: 0.9993748705825087, 13: 0.8712871287128713, 14: 0.801980198019802, 15: 0.9990216240342334, 16: 0.9849984998499852, 17: 0.5742574257425742, 18: 0.9740678537888837, 19: 0.9894333971212245, 20: 0.9861256713906682}
+Pin Pointing mAP: 0.9360609299200625
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.6259), 'map_50': tensor(0.6259), 'map_75': tensor(-1.), 'map_small': tensor(-1.), 'map_medium': tensor(-1.), 'map_large': tensor(0.6304), 'mar_1': tensor(0.6967), 'mar_10': tensor(0.7201), 'mar_100': tensor(0.7201), 'mar_small': tensor(-1.), 'mar_medium': tensor(-1.), 'mar_large': tensor(0.7201), 'map_per_class': tensor([0.8492, 0.9724, 0.6840, 0.2240, 0.2871, 0.6571, 0.9001, 0.8020, 0.0225,
+        0.7296, 0.5941, 0.5746, 0.7411, 0.7405, 0.8770, 0.5750, 0.4777, 0.8361,
+        0.7517, 0.2217]), 'mar_100_per_class': tensor([0.8701, 0.9815, 0.8067, 0.4643, 0.5385, 0.7143, 0.9340, 0.8475, 0.2143,
+        0.7812, 0.6000, 0.7429, 0.7576, 0.7429, 0.9255, 0.6957, 0.5000, 0.9130,
+        0.8390, 0.5333]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.3465346534653465, 2: 0.5742574257425742, 3: 0.43564356435643564, 4: 0.39171622757963076, 5: 0.38613861386138615, 6: 0.5695049504950495, 7: 0.48510891089108915, 8: 0.7842320403750439, 9: 0.5895102202993384, 10: 0.32673267326732675, 11: 0.0, 12: 0.8645171712326255, 13: 0.2871287128712871, 14: 0.48514851485148514, 15: 0.7425742574257426, 16: 0.5445544554455446, 17: 0.25742574257425743, 18: 0.43706270627062704, 19: 0.6125486959998984, 20: 0.7410099066172602}
+Pin Pointing mAP: 0.4930674721810974
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.0939), 'map_50': tensor(0.0939), 'map_75': tensor(-1.), 'map_small': tensor(0.0556), 'map_medium': tensor(0.0316), 'map_large': tensor(0.2582), 'mar_1': tensor(0.1176), 'mar_10': tensor(0.1695), 'mar_100': tensor(0.1695), 'mar_small': tensor(0.0556), 'mar_medium': tensor(0.0518), 'mar_large': tensor(0.4962), 'map_per_class': tensor([ 0.1255,  0.2302,  0.0247,  0.0021,  0.0055,  0.1128,  0.1025,  0.1235,
+         0.0175,  0.0682, -1.0000,  0.2923,  0.1030,  0.1493,  0.0993,  0.0262,
+         0.0216,  0.1183,  0.1462,  0.0149]), 'mar_100_per_class': tensor([ 0.1500,  0.2857,  0.0861,  0.0267,  0.0161,  0.2381,  0.1569,  0.2985,
+         0.0671,  0.1005, -1.0000,  0.3750,  0.1282,  0.2195,  0.2201,  0.1126,
+         0.0485,  0.4000,  0.2286,  0.0625]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Pin Pointing AP per class: {1: 0.8811881188118812, 2: 0.6831683168316832, 3: 0.2561343090830822, 4: 0.6276479360527051, 5: 0.46978947057699294, 6: 0.7524752475247525, 7: 0.5637579862026048, 8: 0.7790977756312215, 9: 0.5445544554455446, 10: 0.40594059405940597, 11: 0.39603960396039606, 12: 0.7425742574257426, 13: 0.6534653465346535, 14: 0.6336633663366337, 15: 0.693069306930693, 16: 0.5247524752475248, 17: 0.2376237623762376, 18: 0.9877712048138723, 19: 0.9051356340880454, 20: 0.8278587379353594}
+Pin Pointing mAP: 0.6282853952934517
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer0_resize.csv
+Detection mAP: {'map': tensor(0.1668), 'map_50': tensor(0.1668), 'map_75': tensor(-1.), 'map_small': tensor(0.0021), 'map_medium': tensor(0.0411), 'map_large': tensor(0.3461), 'mar_1': tensor(0.2212), 'mar_10': tensor(0.2438), 'mar_100': tensor(0.2438), 'mar_small': tensor(0.0012), 'mar_medium': tensor(0.0734), 'mar_large': tensor(0.5821), 'map_per_class': tensor([0.5902, 0.0863, 0.0387, 0.0301, 0.0196, 0.2440, 0.1208, 0.3075, 0.0119,
+        0.0138, 0.3118, 0.2446, 0.3163, 0.2918, 0.0709, 0.0304, 0.0050, 0.2365,
+        0.3494, 0.0159]), 'mar_100_per_class': tensor([0.6190, 0.1846, 0.0698, 0.1364, 0.0363, 0.3625, 0.1782, 0.3980, 0.0652,
+        0.0652, 0.3287, 0.3663, 0.4088, 0.3460, 0.1760, 0.1040, 0.0169, 0.4373,
+        0.4754, 0.1008]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer1_final_resize.pth
+Evaluation time saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.6732673267326733, 2: 0.7029702970297029, 3: 0.594059405940594, 4: 0.644270959322913, 5: 0.33663366336633666, 6: 0.5346534653465347, 7: 0.6333283232461164, 8: 0.9285425755585027, 9: 0.7600329844380599, 10: 0.48514851485148514, 11: 0.42574257425742573, 12: 0.9286815276689255, 13: 0.6732673267326733, 14: 0.7700950405639261, 15: 0.6237623762376238, 16: 0.27722772277227725, 17: 0.24752475247524752, 18: 0.9667567974211262, 19: 0.9162918407537565, 20: 0.7820166204968101}
+Pin Pointing mAP: 0.6452137047606356
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.1924), 'map_50': tensor(0.1924), 'map_75': tensor(-1.), 'map_small': tensor(0.0002), 'map_medium': tensor(0.0332), 'map_large': tensor(0.3922), 'mar_1': tensor(0.2468), 'mar_10': tensor(0.2693), 'mar_100': tensor(0.2693), 'mar_small': tensor(0.0001), 'mar_medium': tensor(0.0526), 'mar_large': tensor(0.5990), 'map_per_class': tensor([0.2656, 0.2635, 0.1368, 0.0281, 0.0051, 0.3015, 0.1945, 0.4455, 0.0104,
+        0.1047, 0.2419, 0.3592, 0.3892, 0.3441, 0.1141, 0.0272, 0.0236, 0.2112,
+        0.3630, 0.0176]), 'mar_100_per_class': tensor([0.3473, 0.3496, 0.2135, 0.1349, 0.0259, 0.3543, 0.2550, 0.5568, 0.0611,
+        0.1611, 0.2876, 0.5113, 0.4684, 0.4173, 0.2083, 0.0726, 0.0579, 0.3157,
+        0.4702, 0.1163]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.9502555094219098, 2: 0.9795792079207921, 3: 0.9879064921606054, 4: 0.9087045407554362, 5: 0.7327477108613116, 6: 0.8217821782178217, 7: 0.9697569756975698, 8: 0.9877752798032237, 9: 0.9104174542476396, 10: 0.9476282096294736, 11: 0.801980198019802, 12: 0.9798741121876051, 13: 0.9207920792079208, 14: 0.9702970297029703, 15: 0.9873478197702621, 16: 0.8793316831683168, 17: 0.8811881188118812, 18: 0.9751724940511373, 19: 0.9900781860633486, 20: 0.9282975831680913}
+Pin Pointing mAP: 0.9255456431433562
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.4624), 'map_50': tensor(0.4624), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0875), 'map_large': tensor(0.5784), 'mar_1': tensor(0.5556), 'mar_10': tensor(0.5732), 'mar_100': tensor(0.5732), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1342), 'mar_large': tensor(0.7398), 'map_per_class': tensor([0.4059, 0.8161, 0.3821, 0.1080, 0.0901, 0.5582, 0.6067, 0.6276, 0.0863,
+        0.4614, 0.5553, 0.4981, 0.6685, 0.7331, 0.7598, 0.3998, 0.3035, 0.6651,
+        0.4721, 0.0512]), 'mar_100_per_class': tensor([0.5194, 0.8571, 0.5106, 0.3793, 0.2609, 0.6154, 0.6978, 0.7220, 0.2143,
+        0.5417, 0.6000, 0.6744, 0.7105, 0.7692, 0.8073, 0.5294, 0.4400, 0.7222,
+        0.5848, 0.3077]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.8275788625374165, 2: 0.869086908690869, 3: 0.8871697680857767, 4: 0.75180502048828, 5: 0.504950495049505, 6: 0.5462046204620462, 7: 0.8571257249625605, 8: 0.9207920792079208, 9: 0.7929592959295928, 10: 0.7942008486562943, 11: 0.0, 12: 0.8010801080108011, 13: 0.6039603960396039, 14: 0.504950495049505, 15: 0.9095843368120597, 16: 0.7745620715917745, 17: 0.7851485148514853, 18: 0.8034653465346534, 19: 0.8456302827837544, 20: 0.7078825547208242}
+Pin Pointing mAP: 0.724406886523236
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.0542), 'map_50': tensor(0.0542), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.1168), 'map_large': tensor(0.0514), 'mar_1': tensor(0.0935), 'mar_10': tensor(0.0997), 'mar_100': tensor(0.0997), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1342), 'mar_large': tensor(0.3344), 'map_per_class': tensor([ 0.0040,  0.2794,  0.0030,  0.0024,  0.0000,  0.0000,  0.0055,  0.0000,
+         0.0817,  0.0000, -1.0000,  0.2024,  0.0000,  0.2574,  0.0448,  0.1127,
+         0.0000,  0.0322,  0.0041,  0.0000]), 'mar_100_per_class': tensor([ 0.0192,  0.4444,  0.0435,  0.0667,  0.0000,  0.0000,  0.0563,  0.0000,
+         0.2143,  0.0000, -1.0000,  0.2750,  0.0000,  0.2500,  0.1613,  0.1818,
+         0.0000,  0.1250,  0.0566,  0.0000]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.9991114496064992, 2: 0.9992799279927994, 3: 0.9977416352713007, 4: 0.9673267326732674, 5: 0.9078497911902988, 6: 0.8514851485148515, 7: 0.9998499849984999, 8: 0.9960330999042742, 9: 0.9731573157315729, 10: 1.0, 11: 0.693069306930693, 12: 0.9996643732169826, 13: 0.9603960396039604, 14: 1.0, 15: 0.9987379849598534, 16: 0.8217821782178217, 17: 0.8514851485148515, 18: 0.9860336954841417, 19: 0.999101149955194, 20: 0.9883520371741609}
+Pin Pointing mAP: 0.9495228499970512
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.6547), 'map_50': tensor(0.6547), 'map_75': tensor(-1.), 'map_small': tensor(-1.), 'map_medium': tensor(-1.), 'map_large': tensor(0.6575), 'mar_1': tensor(0.7238), 'mar_10': tensor(0.7517), 'mar_100': tensor(0.7517), 'mar_small': tensor(-1.), 'mar_medium': tensor(-1.), 'mar_large': tensor(0.7517), 'map_per_class': tensor([0.8287, 0.9131, 0.7201, 0.4095, 0.1797, 0.7336, 0.8975, 0.7608, 0.1300,
+        0.7515, 0.5672, 0.5741, 0.7944, 0.7938, 0.9025, 0.6294, 0.7764, 0.7777,
+        0.7378, 0.2162]), 'mar_100_per_class': tensor([0.8571, 0.9259, 0.7815, 0.7143, 0.4615, 0.7619, 0.9289, 0.8362, 0.2143,
+        0.8125, 0.6000, 0.7657, 0.8182, 0.8286, 0.9317, 0.6957, 0.7857, 0.8261,
+        0.8220, 0.6667]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.32673267326732675, 2: 0.46534653465346537, 3: 0.40594059405940597, 4: 0.4142310682418956, 5: 0.21782178217821782, 6: 0.26732673267326734, 7: 0.4553180639952407, 8: 0.8113037344087498, 9: 0.6736053052932333, 10: 0.38613861386138615, 11: 0.0, 12: 0.9372758974988094, 13: 0.3069306930693069, 14: 0.6606136285222005, 15: 0.594059405940594, 16: 0.297029702970297, 17: 0.19801980198019803, 18: 0.24056114051302827, 19: 0.5518260617270518, 20: 0.6199297349089747}
+Pin Pointing mAP: 0.4415005584881325
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.0936), 'map_50': tensor(0.0936), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0302), 'map_large': tensor(0.2562), 'mar_1': tensor(0.1080), 'mar_10': tensor(0.1547), 'mar_100': tensor(0.1547), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0436), 'mar_large': tensor(0.4542), 'map_per_class': tensor([ 1.0068e-01,  1.7698e-01,  3.5811e-02,  5.6697e-03,  5.6577e-04,
+         1.3119e-01,  9.3592e-02,  1.4628e-01,  3.1503e-03,  6.1800e-02,
+        -1.0000e+00,  2.5885e-01,  1.8564e-01,  1.9700e-01,  9.4260e-02,
+         1.3160e-02,  1.2643e-02,  9.0948e-02,  1.4646e-01,  2.3469e-02]), 'mar_100_per_class': tensor([ 0.1357,  0.2143,  0.0828,  0.0444,  0.0081,  0.1429,  0.1373,  0.3134,
+         0.0470,  0.0952, -1.0000,  0.4167,  0.2308,  0.2683,  0.2056,  0.0563,
+         0.0220,  0.2000,  0.2143,  0.1042]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Pin Pointing AP per class: {1: 0.7821782178217822, 2: 0.6336633663366337, 3: 0.2079207920792079, 4: 0.7092648908592304, 5: 0.3166693718552183, 6: 0.504950495049505, 7: 0.5441510760798086, 8: 0.7810463586041145, 9: 0.7223949667104707, 10: 0.3957720096333957, 11: 0.39603960396039606, 12: 0.7907061024861343, 13: 0.693069306930693, 14: 0.7410581137114894, 15: 0.5841584158415841, 16: 0.19801980198019803, 17: 0.18811881188118812, 18: 0.9502747163071552, 19: 0.9272435718148085, 20: 0.6314629308219704}
+Pin Pointing mAP: 0.5849081460382491
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer1_resize.csv
+Detection mAP: {'map': tensor(0.1653), 'map_50': tensor(0.1653), 'map_75': tensor(-1.), 'map_small': tensor(0.0002), 'map_medium': tensor(0.0336), 'map_large': tensor(0.3499), 'mar_1': tensor(0.2130), 'mar_10': tensor(0.2301), 'mar_100': tensor(0.2301), 'mar_small': tensor(0.0001), 'mar_medium': tensor(0.0510), 'mar_large': tensor(0.5508), 'map_per_class': tensor([0.4850, 0.1640, 0.0210, 0.0498, 0.0067, 0.2691, 0.1178, 0.2914, 0.0108,
+        0.0314, 0.2393, 0.2705, 0.3938, 0.3277, 0.0929, 0.0102, 0.0116, 0.1521,
+        0.3501, 0.0112]), 'mar_100_per_class': tensor([0.5238, 0.2550, 0.0233, 0.1909, 0.0233, 0.3250, 0.1782, 0.3776, 0.0593,
+        0.0978, 0.2768, 0.3951, 0.4686, 0.3910, 0.1803, 0.0367, 0.0339, 0.2538,
+        0.4426, 0.0685]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer2_final_resize.pth
+Evaluation time saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.7424896335787424, 2: 0.8710844593879028, 3: 0.7192871335375493, 4: 0.6217947983889861, 5: 0.31683168316831684, 6: 0.8316831683168316, 7: 0.7606305821001877, 8: 0.9633637067383253, 9: 0.6831683168316832, 10: 0.643003221234195, 11: 0.594059405940594, 12: 0.9296857321580043, 13: 0.8513972699045053, 14: 0.8184378971946382, 15: 0.7821782178217822, 16: 0.6831683168316832, 17: 0.33663366336633666, 18: 0.9862619784218478, 19: 0.9542250043649709, 20: 0.8795626197289605}
+Pin Pointing mAP: 0.748447340450802
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.1995), 'map_50': tensor(0.1995), 'map_75': tensor(-1.), 'map_small': tensor(0.0022), 'map_medium': tensor(0.0589), 'map_large': tensor(0.3974), 'mar_1': tensor(0.2626), 'mar_10': tensor(0.3016), 'mar_100': tensor(0.3016), 'mar_small': tensor(0.0017), 'mar_medium': tensor(0.1138), 'mar_large': tensor(0.6457), 'map_per_class': tensor([0.2208, 0.2482, 0.1332, 0.0337, 0.0104, 0.3193, 0.2583, 0.4276, 0.0414,
+        0.0951, 0.3144, 0.3536, 0.3861, 0.2966, 0.1219, 0.0374, 0.0530, 0.2176,
+        0.3973, 0.0245]), 'mar_100_per_class': tensor([0.3215, 0.3702, 0.2413, 0.1170, 0.0426, 0.4173, 0.3180, 0.5865, 0.1055,
+        0.1763, 0.3645, 0.5113, 0.4810, 0.3902, 0.2420, 0.1098, 0.1029, 0.4318,
+        0.5331, 0.1690]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.9273207982814184, 2: 0.9801980198019802, 3: 0.9920487073642194, 4: 0.9133273940104626, 5: 0.7654756780025829, 6: 0.9734970249924187, 7: 0.9787940678854191, 8: 0.9964248469788389, 9: 0.8951186358730113, 10: 0.9496699669966997, 11: 1.0, 12: 0.9892204265330545, 13: 0.9933319862598503, 14: 0.9702970297029703, 15: 0.9890875072128165, 16: 0.9894656377402447, 17: 0.8811881188118812, 18: 0.9860262428133744, 19: 0.985156577960051, 20: 0.965672231011857}
+Pin Pointing mAP: 0.9560660449116576
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.4574), 'map_50': tensor(0.4574), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.1520), 'map_large': tensor(0.5630), 'mar_1': tensor(0.5657), 'mar_10': tensor(0.5970), 'mar_100': tensor(0.5970), 'mar_small': tensor(0.), 'mar_medium': tensor(0.2455), 'mar_large': tensor(0.7377), 'map_per_class': tensor([0.3178, 0.6942, 0.3534, 0.1143, 0.1209, 0.5854, 0.7138, 0.5502, 0.1983,
+        0.4476, 0.7606, 0.4541, 0.6248, 0.5683, 0.7019, 0.3647, 0.2664, 0.7296,
+        0.4928, 0.0880]), 'mar_100_per_class': tensor([0.4419, 0.8095, 0.5426, 0.3103, 0.2609, 0.7115, 0.7910, 0.7073, 0.3571,
+        0.5208, 0.8000, 0.6419, 0.7368, 0.6154, 0.7969, 0.5882, 0.4400, 0.8519,
+        0.6316, 0.3846]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.6216078131497113, 2: 0.869086908690869, 3: 0.9126729299619518, 4: 0.780775577557756, 5: 0.46094609460946095, 6: 0.8535282099638536, 7: 0.8969480057212681, 8: 0.7431412372006433, 9: 0.7167866786678669, 10: 0.8504243281471006, 12: 0.7986798679867986, 13: 0.7623762376237624, 14: 0.25742574257425743, 15: 0.9482593420632388, 16: 0.9268426842684269, 17: 0.8118811881188119, 18: 0.9284653465346534, 19: 0.8748883220975657, 20: 0.8646483407608977}
+Pin Pointing mAP: 0.7831255187209943
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.1198), 'map_50': tensor(0.1198), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.1735), 'map_large': tensor(0.1733), 'mar_1': tensor(0.2075), 'mar_10': tensor(0.2158), 'mar_100': tensor(0.2158), 'mar_small': tensor(0.), 'mar_medium': tensor(0.2455), 'mar_large': tensor(0.6089), 'map_per_class': tensor([0.0027, 0.1443, 0.0111, 0.0008, 0.0000, 0.0297, 0.1362, 0.0731, 0.3626,
+        0.0035, 0.3108, 0.3399, 0.1287, 0.1791, 0.1599, 0.0537, 0.3144, 0.0231,
+        0.0033]), 'mar_100_per_class': tensor([0.0385, 0.3333, 0.0725, 0.0333, 0.0000, 0.2000, 0.2817, 0.1786, 0.4286,
+        0.0625, 0.4250, 0.4000, 0.2500, 0.2581, 0.3636, 0.1818, 0.3750, 0.1321,
+        0.0857]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 12, 13, 14, 15, 16, 17, 18, 19,
+        20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.9984767707539985, 2: 1.0, 3: 0.9995049504950493, 4: 0.9589816124469589, 5: 0.9813628421665697, 6: 0.9980198019801981, 7: 0.9991217899591625, 8: 0.9976042154931923, 9: 0.9378470199961174, 10: 1.0, 11: 1.0, 12: 0.9989978482709987, 13: 1.0, 14: 1.0, 15: 0.9998170186259947, 16: 0.9466207490314248, 17: 0.7821782178217822, 18: 0.9966171617161714, 19: 0.9998349834983499, 20: 0.9861567750702963}
+Pin Pointing mAP: 0.9790570878663132
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.6322), 'map_50': tensor(0.6322), 'map_75': tensor(-1.), 'map_small': tensor(-1.), 'map_medium': tensor(-1.), 'map_large': tensor(0.6473), 'mar_1': tensor(0.6986), 'mar_10': tensor(0.7411), 'mar_100': tensor(0.7411), 'mar_small': tensor(-1.), 'mar_medium': tensor(-1.), 'mar_large': tensor(0.7411), 'map_per_class': tensor([0.6175, 0.8386, 0.6834, 0.4384, 0.3674, 0.7900, 0.9632, 0.6628, 0.0264,
+        0.7368, 0.7606, 0.4937, 0.6679, 0.6131, 0.8359, 0.5314, 0.6218, 0.8047,
+        0.7749, 0.4146]), 'mar_100_per_class': tensor([0.7143, 0.8889, 0.8151, 0.6071, 0.4615, 0.8333, 0.9746, 0.7910, 0.2857,
+        0.7500, 0.8000, 0.6914, 0.7879, 0.6571, 0.9006, 0.6957, 0.6429, 0.9348,
+        0.8559, 0.7333]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.36633663366336633, 2: 0.7821782178217822, 3: 0.5047571708676956, 4: 0.3883330161962259, 5: 0.22772277227722773, 6: 0.6435643564356436, 7: 0.6036095434388393, 8: 0.8033308165463028, 9: 0.7395129209749014, 10: 0.5339745007032528, 11: 0.0, 12: 0.8965976228651025, 13: 0.6435643564356436, 14: 0.6688325082508252, 15: 0.7622644322148652, 16: 0.5742574257425742, 17: 0.27722772277227725, 18: 0.49684888003903727, 19: 0.6460210571754705, 20: 0.6944995598460946}
+Pin Pointing mAP: 0.5626716757133565
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.1143), 'map_50': tensor(0.1143), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0530), 'map_large': tensor(0.3038), 'mar_1': tensor(0.1311), 'mar_10': tensor(0.2056), 'mar_100': tensor(0.2056), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1062), 'mar_large': tensor(0.5460), 'map_per_class': tensor([ 0.0986,  0.1898,  0.0338,  0.0114,  0.0052,  0.1285,  0.1462,  0.2471,
+         0.0278,  0.0552, -1.0000,  0.2709,  0.1892,  0.1644,  0.1190,  0.0239,
+         0.0435,  0.1587,  0.2040,  0.0550]), 'mar_100_per_class': tensor([ 0.1429,  0.2857,  0.1060,  0.0444,  0.0202,  0.1905,  0.2020,  0.4179,
+         0.0940,  0.1217, -1.0000,  0.4167,  0.2308,  0.2683,  0.2432,  0.0866,
+         0.0749,  0.4667,  0.2857,  0.2083]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Pin Pointing AP per class: {1: 0.900990099009901, 2: 0.7623762376237624, 3: 0.3074185710833935, 4: 0.6617444601603016, 5: 0.3069306930693069, 6: 0.7722772277227723, 7: 0.6818386370703137, 8: 0.8577694214923911, 9: 0.6138613861386139, 10: 0.4800067378947567, 11: 0.5643564356435643, 12: 0.801929939186812, 13: 0.8117282770748117, 14: 0.7996492330906131, 15: 0.7227722772277227, 16: 0.6524449759539142, 17: 0.3069306930693069, 18: 0.9884123502251031, 19: 0.9256160449315112, 20: 0.8497742018980335}
+Pin Pointing mAP: 0.6884413949783453
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer2_resize.csv
+Detection mAP: {'map': tensor(0.1766), 'map_50': tensor(0.1766), 'map_75': tensor(-1.), 'map_small': tensor(0.0022), 'map_medium': tensor(0.0641), 'map_large': tensor(0.3641), 'mar_1': tensor(0.2305), 'mar_10': tensor(0.2683), 'mar_100': tensor(0.2683), 'mar_small': tensor(0.0021), 'mar_medium': tensor(0.1168), 'mar_large': tensor(0.6219), 'map_per_class': tensor([0.4388, 0.1733, 0.0301, 0.0480, 0.0144, 0.2942, 0.1705, 0.3044, 0.0419,
+        0.0303, 0.2991, 0.2998, 0.3860, 0.2878, 0.0971, 0.0301, 0.0248, 0.1437,
+        0.4037, 0.0134]), 'mar_100_per_class': tensor([0.5476, 0.2852, 0.0581, 0.1636, 0.0440, 0.3812, 0.2294, 0.4490, 0.1011,
+        0.1087, 0.3495, 0.4239, 0.4811, 0.3772, 0.2151, 0.0765, 0.0678, 0.3609,
+        0.5410, 0.1048]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/faster_rcnn_pascal_2007_pseudo_fpn_layer3_final_resize.pth
+Evaluation time saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.6534653465346535, 2: 0.7425742574257426, 3: 0.5643564356435643, 4: 0.524420392349794, 5: 0.3564356435643564, 6: 0.8104266517853849, 7: 0.6336633663366337, 8: 0.9363065789325551, 9: 0.6237623762376238, 10: 0.5742574257425742, 11: 0.504950495049505, 12: 0.8804925562629216, 13: 0.7029702970297029, 14: 0.7424308771900313, 15: 0.6138613861386139, 16: 0.7519185056326244, 17: 0.3069306930693069, 18: 0.9624509103076526, 19: 0.9171374286279109, 20: 0.8539916526818301}
+Pin Pointing mAP: 0.6828401638271491
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.1707), 'map_50': tensor(0.1707), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0242), 'map_large': tensor(0.3468), 'mar_1': tensor(0.2354), 'mar_10': tensor(0.2576), 'mar_100': tensor(0.2576), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0329), 'mar_large': tensor(0.5936), 'map_per_class': tensor([0.2603, 0.1822, 0.0791, 0.0193, 0.0037, 0.2369, 0.1905, 0.4236, 0.0198,
+        0.1064, 0.2850, 0.2904, 0.3318, 0.2470, 0.0834, 0.0217, 0.0248, 0.2242,
+        0.3660, 0.0178]), 'mar_100_per_class': tensor([0.3505, 0.3008, 0.1649, 0.0891, 0.0198, 0.3504, 0.2544, 0.5541, 0.0640,
+        0.1702, 0.3311, 0.4453, 0.4177, 0.3388, 0.1796, 0.0861, 0.0707, 0.3763,
+        0.4603, 0.1274]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.929566628794027, 2: 0.9947351878044948, 3: 0.9675604608392766, 4: 0.877990899297755, 5: 0.6945089466929887, 6: 0.9711647695381785, 7: 0.9695332233656904, 8: 0.9879033696125744, 9: 0.9329277755361743, 10: 0.9675679106372177, 11: 1.0, 12: 0.9891179651590127, 13: 0.9702970297029703, 14: 0.9702970297029703, 15: 0.9871389260942008, 16: 0.9769305232410034, 17: 0.9207920792079208, 18: 0.9720722598575645, 19: 0.9665374028176784, 20: 0.9439571304754872}
+Pin Pointing mAP: 0.9495299759188593
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.4160), 'map_50': tensor(0.4160), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0445), 'map_large': tensor(0.5177), 'mar_1': tensor(0.5274), 'mar_10': tensor(0.5454), 'mar_100': tensor(0.5454), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0600), 'mar_large': tensor(0.7009), 'map_per_class': tensor([0.3850, 0.7321, 0.2171, 0.1006, 0.0689, 0.5327, 0.5655, 0.5856, 0.1084,
+        0.4915, 0.6377, 0.4491, 0.5624, 0.5293, 0.6766, 0.2757, 0.2717, 0.6197,
+        0.4644, 0.0464]), 'mar_100_per_class': tensor([0.5194, 0.7937, 0.4096, 0.2931, 0.1304, 0.6538, 0.6903, 0.7122, 0.2857,
+        0.5833, 0.7000, 0.6326, 0.6579, 0.5897, 0.7500, 0.4412, 0.4400, 0.7593,
+        0.5731, 0.2923]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.7759569298661441, 2: 0.7722772277227723, 3: 0.834255243151183, 4: 0.6776020323205669, 5: 0.4224422442244225, 6: 0.8487433358720486, 7: 0.8117739803924893, 8: 0.7554005400540056, 9: 0.8141688591936117, 10: 0.7376237623762376, 11: 0.0, 12: 0.7479906814210834, 13: 0.40594059405940597, 14: 0.25742574257425743, 15: 0.8476381505145589, 16: 0.7461746174617463, 17: 0.8118811881188119, 18: 0.6013029874416012, 19: 0.8964463926793304, 20: 0.8497450930400368}
+Pin Pointing mAP: 0.6807394801242157
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.0248), 'map_50': tensor(0.0248), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0485), 'map_large': tensor(0.1428), 'mar_1': tensor(0.0726), 'mar_10': tensor(0.0736), 'mar_100': tensor(0.0736), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0600), 'mar_large': tensor(0.3822), 'map_per_class': tensor([ 3.1903e-03,  5.9406e-02,  4.0412e-04,  1.5842e-03,  0.0000e+00,
+         4.2460e-02,  2.8177e-02,  0.0000e+00,  1.9142e-01,  6.3006e-03,
+        -1.0000e+00,  8.4866e-03,  0.0000e+00,  0.0000e+00,  5.7426e-02,
+         6.1881e-03,  1.6502e-02,  3.2178e-02,  1.7392e-02,  5.6043e-04]), 'mar_100_per_class': tensor([ 0.0385,  0.1111,  0.0145,  0.0333,  0.0000,  0.2000,  0.0704,  0.0000,
+         0.2857,  0.0625, -1.0000,  0.0750,  0.0000,  0.0000,  0.0968,  0.0909,
+         0.0909,  0.1250,  0.0755,  0.0286]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.979822032836195, 2: 1.0, 3: 0.9980261335871101, 4: 0.9564356435643565, 5: 0.770957095709571, 6: 0.9988487220815108, 7: 1.0, 8: 0.9971341230153001, 9: 0.9791558103178742, 10: 1.0, 11: 0.900990099009901, 12: 0.9992100162397192, 13: 1.0, 14: 0.9991749174917494, 15: 0.9994620489931877, 16: 1.0, 17: 1.0, 18: 0.9938755577685429, 19: 0.9900990099009901, 20: 0.9915318167212257}
+Pin Pointing mAP: 0.9777361513618616
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.5915), 'map_50': tensor(0.5915), 'map_75': tensor(-1.), 'map_small': tensor(-1.), 'map_medium': tensor(-1.), 'map_large': tensor(0.5937), 'mar_1': tensor(0.6801), 'mar_10': tensor(0.7081), 'mar_100': tensor(0.7081), 'mar_small': tensor(-1.), 'mar_medium': tensor(-1.), 'mar_large': tensor(0.7081), 'map_per_class': tensor([0.7430, 0.8904, 0.4471, 0.3426, 0.1320, 0.6735, 0.8498, 0.7284, 0.0740,
+        0.7599, 0.6377, 0.5984, 0.6564, 0.5949, 0.8314, 0.5152, 0.6843, 0.7307,
+        0.7100, 0.2309]), 'mar_100_per_class': tensor([0.8442, 0.9074, 0.6387, 0.5714, 0.2308, 0.7619, 0.9137, 0.8249, 0.2857,
+        0.8438, 0.7000, 0.7600, 0.7576, 0.6571, 0.8758, 0.6087, 0.7143, 0.8696,
+        0.7966, 0.6000]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.32673267326732675, 2: 0.6435643564356436, 3: 0.33663366336633666, 4: 0.3358520062532569, 5: 0.22772277227722773, 6: 0.6418484204310155, 7: 0.48514851485148514, 8: 0.7670573179766957, 9: 0.6268648850009388, 10: 0.49504950495049505, 11: 0.0, 12: 0.8593618895787885, 13: 0.3564356435643564, 14: 0.6012947448591013, 15: 0.6039603960396039, 16: 0.6633020444901633, 17: 0.25742574257425743, 18: 0.6215621562156216, 19: 0.6422816749760082, 20: 0.7664784899542585}
+Pin Pointing mAP: 0.512928844853129
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.0854), 'map_50': tensor(0.0854), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0242), 'map_large': tensor(0.2459), 'mar_1': tensor(0.1102), 'mar_10': tensor(0.1552), 'mar_100': tensor(0.1552), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0313), 'mar_large': tensor(0.4836), 'map_per_class': tensor([ 0.1020,  0.1840,  0.0226,  0.0044,  0.0033,  0.0634,  0.0910,  0.1864,
+         0.0199,  0.0677, -1.0000,  0.1626,  0.0950,  0.1609,  0.0984,  0.0200,
+         0.0114,  0.1407,  0.1656,  0.0239]), 'mar_100_per_class': tensor([ 0.1357,  0.2500,  0.0530,  0.0356,  0.0040,  0.1429,  0.1412,  0.3433,
+         0.0470,  0.1058, -1.0000,  0.2639,  0.1538,  0.2683,  0.2008,  0.0779,
+         0.0396,  0.3333,  0.2286,  0.1250]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+mAP pin pointing saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Pin Pointing AP per class: {1: 0.7128712871287128, 2: 0.6138613861386139, 3: 0.2068785825951016, 4: 0.5406495390918402, 5: 0.3454769947582993, 6: 0.7715059418029715, 7: 0.5247524752475248, 8: 0.8081006781129245, 9: 0.5544554455445545, 10: 0.43564356435643564, 11: 0.46534653465346537, 12: 0.7125883640995678, 13: 0.6831683168316832, 14: 0.7127760853008378, 15: 0.5742574257425742, 16: 0.6603643171811716, 17: 0.2376237623762376, 18: 0.9538917435728098, 19: 0.8968386827559286, 20: 0.7749360145769603}
+Pin Pointing mAP: 0.6092993570934108
+------------------
+mAP detection saved to logs/evaluate_test_faster_rcnn_pascal_2007_pseudo_fpn_final_layer3_resize.csv
+Detection mAP: {'map': tensor(0.1449), 'map_50': tensor(0.1449), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0211), 'map_large': tensor(0.3114), 'mar_1': tensor(0.1981), 'mar_10': tensor(0.2159), 'mar_100': tensor(0.2159), 'mar_small': tensor(0.), 'mar_medium': tensor(0.0284), 'mar_large': tensor(0.5647), 'map_per_class': tensor([0.4956, 0.0944, 0.0218, 0.0162, 0.0062, 0.2079, 0.1278, 0.2513, 0.0194,
+        0.0267, 0.2721, 0.2075, 0.3415, 0.2313, 0.0516, 0.0055, 0.0113, 0.1667,
+        0.3276, 0.0150]), 'mar_100_per_class': tensor([0.5476, 0.2013, 0.0233, 0.0909, 0.0233, 0.3063, 0.1769, 0.3673, 0.0610,
+        0.0870, 0.3183, 0.3333, 0.4214, 0.3149, 0.1468, 0.0550, 0.0339, 0.3150,
+        0.4098, 0.0847]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------

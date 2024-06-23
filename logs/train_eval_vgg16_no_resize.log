@@ -1,0 +1,227 @@
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtrainval_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtrainval_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Epoch 1/20 - Training - Loss: 49.227287110104506
+Epoch 1/20 - Validation - Loss: 38.0878964681474
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 2/20 - Training - Loss: 33.197023311934146
+Epoch 2/20 - Validation - Loss: 36.049064333476714
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 3/20 - Training - Loss: 28.671359879087166
+Epoch 3/20 - Validation - Loss: 32.76738260662745
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 4/20 - Training - Loss: 24.956947132885695
+Epoch 4/20 - Validation - Loss: 35.58736846560524
+Epoch 5/20 - Training - Loss: 21.671205262263932
+Epoch 5/20 - Validation - Loss: 33.99255433158269
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 6/20 - Training - Loss: 20.17076227864421
+Epoch 6/20 - Validation - Loss: 27.44338972606356
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 7/20 - Training - Loss: 17.21610678334635
+Epoch 7/20 - Validation - Loss: 27.351024400620233
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 8/20 - Training - Loss: 16.85834088078533
+Epoch 8/20 - Validation - Loss: 27.18633833385649
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 9/20 - Training - Loss: 15.496237764320526
+Epoch 9/20 - Validation - Loss: 28.821263555496458
+Epoch 10/20 - Training - Loss: 14.796608308396966
+Epoch 10/20 - Validation - Loss: 28.00127577403235
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 11/20 - Training - Loss: 15.17605762272717
+Epoch 11/20 - Validation - Loss: 28.131075298975386
+Epoch 12/20 - Training - Loss: 14.978795895063545
+Epoch 12/20 - Validation - Loss: 26.64130148811946
+Model saved to pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 13/20 - Training - Loss: 14.968909245563218
+Epoch 13/20 - Validation - Loss: 27.073986734662736
+Epoch 14/20 - Training - Loss: 14.672521321422076
+Epoch 14/20 - Validation - Loss: 27.86262279086643
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 15/20 - Training - Loss: 14.952364610010884
+Epoch 15/20 - Validation - Loss: 27.425286232479035
+Epoch 16/20 - Training - Loss: 15.1498884480313
+Epoch 16/20 - Validation - Loss: 28.067878708006845
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 17/20 - Training - Loss: 15.172952710869778
+Epoch 17/20 - Validation - Loss: 27.028133248525954
+Epoch 18/20 - Training - Loss: 15.123047328090287
+Epoch 18/20 - Validation - Loss: 27.083869502657937
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Epoch 19/20 - Training - Loss: 14.991934477095585
+Epoch 19/20 - Validation - Loss: 27.839512476845393
+Epoch 20/20 - Training - Loss: 15.016993735416001
+Epoch 20/20 - Validation - Loss: 27.281902797638423
+Validation loss did not improve for 2 epochs. Reducing learning rate and restoring best model weights.
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Training completed in 2539.56s
+Losses saved to logs/train_vgg16_classifier_pascal_2007_final_no_resize.csv
+Evaluation on test set
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Evaluation time saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Evaluation on test set
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtest_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Evaluation time saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 0.9467326758838278, 2: 0.9268300507157375, 3: 0.5841584158415841, 4: 0.6581031797385232, 5: 0.4806433442513243, 6: 0.9665060668055296, 7: 0.9129212083433275, 8: 0.9956302528553711, 9: 0.6435856787377098, 10: 0.701433936497098, 11: 0.9707020854337244, 12: 0.9207920792079208, 13: 0.9003994312601268, 14: 0.9406708344116224, 15: 0.5477949978562782, 16: 0.5721900842494808, 17: 0.48964680121858345, 18: 0.9732603935041085, 19: 0.9944328117719394, 20: 0.8784888710881085}
+Pin Pointing mAP: 0.8002461599835964
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.0600), 'map_50': tensor(0.0600), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0147), 'map_large': tensor(0.1173), 'mar_1': tensor(0.1279), 'mar_10': tensor(0.2209), 'mar_100': tensor(0.2209), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1213), 'mar_large': tensor(0.2964), 'map_per_class': tensor([0.1345, 0.0793, 0.0434, 0.0065, 0.0098, 0.0993, 0.0887, 0.0479, 0.0104,
+        0.0530, 0.0415, 0.0415, 0.0628, 0.1065, 0.0173, 0.0339, 0.0678, 0.0507,
+        0.1638, 0.0409]), 'mar_100_per_class': tensor([0.3087, 0.2982, 0.1858, 0.0712, 0.0609, 0.3189, 0.2654, 0.2027, 0.0750,
+        0.1702, 0.2241, 0.2038, 0.2405, 0.3442, 0.1221, 0.1385, 0.1897, 0.2879,
+        0.4503, 0.2604]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.8351081013679504
+Classification AP: tensor([-0.0000, 0.9712, 0.9449, 0.9467, 0.9412, 0.6395, 0.8605, 0.9303, 0.9538,
+        0.7360, 0.8463, 0.8110, 0.9450, 0.9520, 0.9109, 0.9756, 0.6969, 0.8978,
+        0.7585, 0.9763, 0.8430])
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 0.9763703356320981, 2: 0.9971499790824152, 3: 0.9792256364486378, 4: 0.9530585027463402, 5: 0.8371994342291371, 6: 0.987924982974488, 7: 0.9898373327141994, 8: 0.9931705575557894, 9: 0.9133356263666068, 10: 0.9545266094673938, 11: 1.0, 12: 0.9994540008979178, 13: 0.9844112070781544, 14: 0.9821258446056899, 15: 0.9428245778485893, 16: 1.0, 17: 0.9349515596720963, 18: 0.9355643537680195, 19: 0.9934548411811882, 20: 0.9490883035683995}
+Pin Pointing mAP: 0.9651836842918579
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.1226), 'map_50': tensor(0.1226), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0232), 'map_large': tensor(0.1831), 'mar_1': tensor(0.2312), 'mar_10': tensor(0.3688), 'mar_100': tensor(0.3688), 'mar_small': tensor(0.), 'mar_medium': tensor(0.3300), 'mar_large': tensor(0.3776), 'map_per_class': tensor([0.2454, 0.0454, 0.0653, 0.0163, 0.0670, 0.2838, 0.2775, 0.0455, 0.0453,
+        0.2603, 0.0215, 0.0393, 0.0508, 0.1567, 0.0336, 0.1347, 0.2795, 0.1302,
+        0.2095, 0.0443]), 'mar_100_per_class': tensor([0.4651, 0.3492, 0.2819, 0.1552, 0.2174, 0.5000, 0.6642, 0.2098, 0.2500,
+        0.4792, 0.2000, 0.2372, 0.1842, 0.4359, 0.2656, 0.4118, 0.5600, 0.5741,
+        0.5497, 0.3846]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.8500038981437683
+Classification AP: tensor([-0.0000, 0.9821, 0.9903, 0.9844, 0.9482, 0.5678, 0.8967, 0.9898, 0.9924,
+        0.4027, 0.8012, 0.9310, 0.9866, 0.8982, 0.9259, 0.9760, 0.8276, 0.9420,
+        0.8868, 0.9963, 0.9241])
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 0.9506311831504306, 2: 0.9349009900990101, 3: 0.9034543595204589, 4: 0.9189622297672235, 5: 0.40594059405940597, 6: 0.900990099009901, 7: 0.9457731732836795, 8: 0.9207920792079208, 9: 0.5872399706814183, 10: 0.6831683168316832, 11: 0.0, 12: 0.8095515433896332, 13: 0.801980198019802, 14: 0.504950495049505, 15: 0.8179283445585938, 16: 0.6043412033511043, 17: 0.900990099009901, 18: 0.7062706270627063, 19: 0.9347899343371904, 20: 0.9062641341390262}
+Pin Pointing mAP: 0.7569459787264297
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.2726), 'map_50': tensor(0.2726), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.1637), 'map_large': tensor(0.4007), 'mar_1': tensor(0.3482), 'mar_10': tensor(0.4530), 'mar_100': tensor(0.4530), 'mar_small': tensor(0.), 'mar_medium': tensor(0.3300), 'mar_large': tensor(0.5583), 'map_per_class': tensor([ 0.3976,  0.7587,  0.2974,  0.0299,  0.0320,  0.3182,  0.5353,  0.2035,
+         0.0524,  0.4055, -1.0000,  0.2652,  0.1040,  0.1287,  0.0857,  0.4684,
+         0.7500,  0.0516,  0.1026,  0.1928]), 'mar_100_per_class': tensor([ 0.4808,  0.7778,  0.5362,  0.1667,  0.2000,  0.4000,  0.7465,  0.4286,
+         0.3571,  0.4375, -1.0000,  0.5000,  0.2000,  0.2500,  0.2903,  0.6364,
+         0.8182,  0.3750,  0.3208,  0.6857]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.7121005654335022
+Classification AP: tensor([-0.0000, 0.9701, 0.9889, 0.9606, 0.9178, 0.4913, 0.6183, 0.9787, 0.9662,
+        0.6997, 0.6937, -0.0000, 0.9298, 0.4658, 0.5573, 0.8829, 0.7792, 0.9394,
+        0.2296, 0.9973, 0.8876])
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 1.0, 2: 1.0, 3: 0.9975440727922733, 4: 0.9947194719471949, 5: 0.9738330975954739, 6: 0.9907466356391738, 7: 0.998049804980498, 8: 0.9924376495084192, 9: 1.0, 10: 0.9869213272678622, 11: 1.0, 12: 1.0, 13: 0.992326732673267, 14: 0.9937633469229277, 15: 0.9421731280840081, 16: 1.0, 17: 0.954738330975955, 18: 0.9601037472168269, 19: 0.9953407105416425, 20: 1.0}
+Pin Pointing mAP: 0.9886349028072761
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.1099), 'map_50': tensor(0.1099), 'map_75': tensor(-1.), 'map_small': tensor(-1.), 'map_medium': tensor(-1.), 'map_large': tensor(0.1541), 'mar_1': tensor(0.1905), 'mar_10': tensor(0.3225), 'mar_100': tensor(0.3225), 'mar_small': tensor(-1.), 'mar_medium': tensor(-1.), 'mar_large': tensor(0.3225), 'map_per_class': tensor([0.2373, 0.0303, 0.0229, 0.0105, 0.0990, 0.3015, 0.2418, 0.0442, 0.0824,
+        0.2576, 0.0215, 0.0289, 0.0561, 0.1644, 0.0334, 0.1193, 0.0435, 0.1427,
+        0.2611, 0.0009]), 'mar_100_per_class': tensor([0.4545, 0.2778, 0.1345, 0.1429, 0.2308, 0.5238, 0.6345, 0.1751, 0.1429,
+        0.5000, 0.2000, 0.1771, 0.1818, 0.4571, 0.2609, 0.3043, 0.3571, 0.6087,
+        0.6525, 0.0333]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.8666062355041504
+Classification AP: tensor([-0.0000, 0.9918, 0.9924, 0.9954, 0.9756, 0.6566, 0.9603, 0.9926, 0.9947,
+        0.2026, 0.8589, 0.9519, 0.9954, 0.9444, 0.9629, 0.9905, 0.8578, 0.9584,
+        0.9582, 0.9962, 0.9620])
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 0.44554455445544555, 2: 0.8481848184818481, 3: 0.3564356435643564, 4: 0.4158415841584158, 5: 0.2864314600474132, 6: 0.681295500942891, 7: 0.5595018491724605, 8: 0.7128712871287128, 9: 0.5693103443365184, 10: 0.5524752475247524, 11: 0.0, 12: 0.7326732673267327, 13: 0.5812706270627063, 14: 0.7815254052877816, 15: 0.48176720893332026, 16: 0.4644297763109644, 17: 0.37202685785819956, 18: 0.7535065494127053, 19: 0.899853439162357, 20: 0.7363365376615232}
+Pin Pointing mAP: 0.5615640979414553
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.0428), 'map_50': tensor(0.0428), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0194), 'map_large': tensor(0.0878), 'mar_1': tensor(0.0690), 'mar_10': tensor(0.1548), 'mar_100': tensor(0.1548), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1394), 'mar_large': tensor(0.2142), 'map_per_class': tensor([ 0.0671,  0.0297,  0.0409,  0.0042,  0.0011,  0.0516,  0.0624,  0.0765,
+         0.0175,  0.0283, -1.0000,  0.0200,  0.0213,  0.0836,  0.0133,  0.0360,
+         0.0654,  0.0565,  0.1153,  0.0222]), 'mar_100_per_class': tensor([ 0.1571,  0.1786,  0.1556,  0.0311,  0.0121,  0.1190,  0.1804,  0.1940,
+         0.0805,  0.1164, -1.0000,  0.1389,  0.1282,  0.2927,  0.1052,  0.1126,
+         0.1674,  0.3333,  0.2714,  0.1667]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.8164244890213013
+Classification AP: tensor([-0.0000, 0.9847, 0.9698, 0.9828, 0.9772, 0.9191, 0.7303, 0.9931, 0.9795,
+        0.6596, 0.9586, -0.0000, 0.9617, 0.6701, 0.9421, 0.9955, 0.9311, 0.9517,
+        0.5927, 0.9951, 0.9501])
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+mAP pin pointing saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Pin Pointing AP per class: {1: 0.938884959924564, 2: 0.7805844235812053, 3: 0.1782178217821782, 4: 0.6798585942219862, 5: 0.4921947682978072, 6: 0.9492250320056734, 7: 0.6975297962373489, 8: 0.8408769448373408, 9: 0.5842543402987683, 10: 0.5247524752475248, 11: 0.9710682487433828, 12: 0.7227722772277227, 13: 0.8794393315613521, 14: 0.9060718682613508, 15: 0.5021463975530317, 16: 0.4883326898776885, 17: 0.4404107077374404, 18: 0.9683527374129112, 19: 0.9860529419643566, 20: 0.7410524684625779}
+Pin Pointing mAP: 0.7136039412618107
+------------------
+mAP detection saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Detection mAP: {'map': tensor(0.0550), 'map_50': tensor(0.0550), 'map_75': tensor(-1.), 'map_small': tensor(0.), 'map_medium': tensor(0.0156), 'map_large': tensor(0.1175), 'mar_1': tensor(0.1075), 'mar_10': tensor(0.2015), 'mar_100': tensor(0.2015), 'mar_small': tensor(0.), 'mar_medium': tensor(0.1027), 'mar_large': tensor(0.2844), 'map_per_class': tensor([0.1093, 0.0993, 0.0335, 0.0119, 0.0197, 0.0834, 0.0495, 0.0476, 0.0098,
+        0.0454, 0.0428, 0.0512, 0.0699, 0.1170, 0.0168, 0.0288, 0.0349, 0.0432,
+        0.1324, 0.0534]), 'mar_100_per_class': tensor([0.3333, 0.2987, 0.0814, 0.1091, 0.0829, 0.3125, 0.1822, 0.1939, 0.0702,
+        0.1196, 0.2249, 0.1934, 0.2610, 0.3391, 0.1195, 0.1284, 0.1186, 0.2385,
+        0.3770, 0.2460]), 'classes': tensor([ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
+        19, 20], dtype=torch.int32)}
+------------------
+mAP classification saved to logs/evaluate_test_vgg16_classifier_pascal_2007_final_no_resize.csv
+Classification mAP: 0.7838535308837891
+Classification AP: tensor([-0.0000, 0.9017, 0.9331, 0.5394, 0.9183, 0.6353, 0.8881, 0.8713, 0.8215,
+        0.8061, 0.7178, 0.8405, 0.8882, 0.9726, 0.9129, 0.9904, 0.5873, 0.7473,
+        0.7902, 0.8873, 0.8118])
+--------------------------------------------------------------------------------------------------
+Evaluation on trainval set
+Using downloaded and verified file: ../data/pascal_voc_2007/VOCtrainval_06-Nov-2007.tar
+Extracting ../data/pascal_voc_2007/VOCtrainval_06-Nov-2007.tar to ../data/pascal_voc_2007
+Running on Tesla V100S-PCIE-32GB
+Model loaded from pretrained_models/vgg16_classifier_pascal_2007_final_no_resize.pth
+Evaluation time saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+-----------------------------------------------------------------------------
+Evaluating data split full_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {9: 0.061399333650642554, 11: 0.0880503144654088, 7: 0.22192224622030238, 13: 0.21990369181380418, 15: 0.10115118956254797, 2: 0.24773960216998192, 8: 0.17341977309562398, 12: 0.16393442622950818, 19: 0.21522693997071743, 1: 0.2876712328767123, 5: 0.09252669039145907, 20: 0.16172106824925817, 3: 0.25177304964539005, 14: 0.26160990712074306, 16: 0.125, 4: 0.09112709832134293, 18: 0.0966693744922827, 10: 0.25297619047619047, 17: 0.2535885167464115, 6: 0.1941544885177453}
+Mean CorLoc: 0.17807825670080363
+-----------------------------------------------------------------------------
+Evaluating data split localization_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {7: 0.2619047619047619, 2: 0.14965986394557823, 19: 0.21148825065274152, 12: 0.13354037267080746, 20: 0.08095238095238096, 3: 0.21052631578947367, 8: 0.1547911547911548, 15: 0.09386281588447654, 1: 0.33584905660377357, 4: 0.11764705882352941, 6: 0.2621359223300971, 9: 0.05660377358490566, 18: 0.08187134502923976, 10: 0.17391304347826086, 13: 0.1276595744680851, 14: 0.16428571428571428, 17: 0.19736842105263158, 5: 0.11827956989247312, 16: 0.04918032786885246, 11: 0.045454545454545456}
+Mean CorLoc: 0.15134871347317416
+-----------------------------------------------------------------------------
+Evaluating data split small_localization_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {19: 0.23469387755102042, 7: 0.42857142857142855, 20: 0.17073170731707318, 3: 0.5045871559633027, 15: 0.1780821917808219, 8: 0.2894736842105263, 9: 0.0875, 18: 0.09090909090909091, 6: 0.3333333333333333, 10: 0.36, 14: 1.0, 1: 0.6176470588235294, 17: 0.45454545454545453, 4: 0.15789473684210525, 12: 0.5333333333333333, 2: 0.5789473684210527, 5: 0.22727272727272727, 13: 0.5, 11: 0.0, 16: 0.13636363636363635}
+Mean CorLoc: 0.3441943392619218
+-----------------------------------------------------------------------------
+Evaluating data split large_localization_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {7: 0.22544642857142858, 2: 0.0859375, 12: 0.09246575342465753, 3: 0.08333333333333333, 8: 0.14092140921409213, 1: 0.23857868020304568, 19: 0.20350877192982456, 4: 0.08064516129032258, 6: 0.24390243902439024, 15: 0.08108108108108109, 20: 0.0234375, 10: 0.12222222222222222, 13: 0.1111111111111111, 5: 0.08450704225352113, 16: 0.03, 14: 0.12030075187969924, 9: 0.02531645569620253, 18: 0.08053691275167785, 17: 0.15384615384615385, 11: 0.14285714285714285}
+Mean CorLoc: 0.1184977925344953
+-----------------------------------------------------------------------------
+Evaluating data split multi_instance_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {9: 0.10071942446043165, 11: 0.0, 8: 0.16901408450704225, 1: 0.23711340206185566, 19: 0.3, 16: 0.13191489361702127, 7: 0.22276029055690072, 15: 0.0904716073147257, 4: 0.07246376811594203, 14: 0.3088235294117647, 12: 0.16, 18: 0.21666666666666667, 20: 0.034482758620689655, 17: 0.2872340425531915, 3: 0.33116883116883117, 10: 0.27906976744186046, 5: 0.0707070707070707, 6: 0.13157894736842105, 13: 0.1875, 2: 0.2857142857142857}
+Mean CorLoc: 0.18087016851433502
+-----------------------------------------------------------------------------
+Evaluating data split multi_class_dataset:
+CorLoc saved to logs/evaluate_train_vgg16_classifier_pascal_2007_final_no_resize.csv
+CorLoc per class: {13: 0.23943661971830985, 15: 0.10422592442096709, 12: 0.1967741935483871, 2: 0.2832080200501253, 1: 0.18421052631578946, 5: 0.0918918918918919, 11: 0.09410430839002268, 20: 0.22167487684729065, 8: 0.2302158273381295, 7: 0.19708846584546472, 3: 0.30612244897959184, 14: 0.2853881278538813, 9: 0.058790904048807546, 16: 0.1435523114355231, 18: 0.092, 10: 0.31521739130434784, 17: 0.28205128205128205, 6: 0.1804733727810651, 4: 0.0875, 19: 0.18}
+Mean CorLoc: 0.18869632464104386
