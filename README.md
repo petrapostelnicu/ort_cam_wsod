@@ -4,7 +4,7 @@
 
 ------------------------------------
 
-This is the repository for [this paper](todo), submitted as my Bachelor Thesis at Delft University of Technology.
+This is the repository for [this paper](https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fresolver.tudelft.nl%2Fuuid%3Ac16ff438-d285-439e-a59d-a4af2b67ee8b&data=05%7C02%7CP.Postelnicu%40student.tudelft.nl%7C63616373938c486a2a6e08dc9a8f6694%7C096e524d692940308cd38ab42de0887b%7C0%7C0%7C638555187917446165%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=JvKZONOyPUCcBvPXGx%2FMByLVKrV8f8B2eo%2FTKL81Cok%3D&reserved=0), submitted for the Research Project 2024 at Delft University of Technology.
 
 --------------------
 
